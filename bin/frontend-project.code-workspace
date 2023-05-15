@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../Documents/GitHub/frontend-project"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "../src"
+		}
+	],
+	"settings": {}
+}
