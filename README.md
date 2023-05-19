@@ -2,8 +2,8 @@
 [![Actions Status](https://github.com/nomao22/frontend-project-44/workflows/hexlet-check/badge.svg) ](https://github.com/nomao22/frontend-project-44/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/c9986ed6c0a07783cd52/maintainability)](https://codeclimate.com/github/nomao22/frontend-project-44/maintainability)
 
-## Description
-## 5 simple cli games, just watch video.
+# Description
+### 5 simple cli games, just watch video.
 
 # Installation 
     git clone https://github.com/nomao22/frontend-project-44
