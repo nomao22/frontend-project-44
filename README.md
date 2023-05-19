@@ -9,6 +9,12 @@
     git clone https://github.com/nomao22/frontend-project-44
     cd frontend-project-44
     make install
+    
+# start of the game
+## brain-games
+[![asciicast](https://asciinema.org/a/6MDH58znV7cLHdUV9Jyf70dTL.svg)](https://asciinema.org/a/6MDH58znV7cLHdUV9Jyf70dTL)
+
+# Games
 
 ## Brain-Even 
 [![asciicast](https://asciinema.org/a/CiCdw0B9QhT5g9ocqRWkStiSN.svg)](https://asciinema.org/a/CiCdw0B9QhT5g9ocqRWkStiSN)
