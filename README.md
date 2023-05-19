@@ -1,6 +1,9 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/nomao22/frontend-project-44/workflows/hexlet-check/badge.svg) ](https://github.com/nomao22/frontend-project-44/actions)
 
+## Code-Climate
+[![Maintainability](https://api.codeclimate.com/v1/badges/c9986ed6c0a07783cd52/maintainability)](https://codeclimate.com/github/nomao22/frontend-project-44/maintainability)
+
 ## Brain-Even 
 [![asciicast](https://asciinema.org/a/CiCdw0B9QhT5g9ocqRWkStiSN.svg)](https://asciinema.org/a/CiCdw0B9QhT5g9ocqRWkStiSN)
 
